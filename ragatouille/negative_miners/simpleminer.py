@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Literal, Optional, Union
 
 import torch
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 from voyager import Index, Space, StorageDataType
 

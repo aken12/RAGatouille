@@ -1,0 +1,9 @@
+{
+    "index_dir": "/home/ace14788tj/aken12_2/RAGatouille/driver/.ragatouille/colbert/indexes/clueweb09",
+    "query_path": "/home/ace14788tj/extdisk/data/clueweb09/query/q2e_query.json",
+    "output_path": "/home/ace14788tj/extdisk/data/clueweb09/runs/colbertv2.0/clueweb09_colbertv2.0_q2e.txt",
+    "use_pseudo_doc": true,
+    "rewrite": "q2e",
+    "corpus": "clueweb09",
+    "topk": 1000
+}

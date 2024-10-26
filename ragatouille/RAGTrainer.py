@@ -5,7 +5,7 @@ from colbert.infra import ColBERTConfig
 
 from ragatouille.data import TrainingDataProcessor
 from ragatouille.models import ColBERT, LateInteractionModel
-from ragatouille.negative_miners import HardNegativeMiner, SimpleMiner
+# from ragatouille.negative_miners import HardNegativeMiner, SimpleMiner
 from ragatouille.utils import seeded_shuffle
 
 

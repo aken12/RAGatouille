@@ -5,7 +5,6 @@ except ImportError:
     from llama_index.core import Document
     from llama_index.core.text_splitter import SentenceSplitter
 
-
 def llama_index_sentence_splitter(
     documents: list[str], document_ids: list[str], chunk_size=256
 ):
